@@ -10,7 +10,7 @@ import (
 	_ "github.com/wdvxdr1123/ZeroBot/example/music"
 	_ "github.com/wdvxdr1123/ZeroBot/example/repeat"
 )
-
+##ddd
 func init() {
 	log.SetFormatter(&easy.Formatter{
 		TimestampFormat: "2006-01-02 15:04:05",
